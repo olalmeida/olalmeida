@@ -1,102 +1,114 @@
 <div align="center">
-   <img width=100% src=https://capsule-render.vercel.app/api?type=waving&height=100&color=gradient&reversal=true />
+<img width="100%" src="https://www.google.com/search?q=https://capsule-render.vercel.app/api%3Ftype%3Dwaving%26height%3D120%26color%3Dgradient%26reversal%3Dtrue%26section%3Dheader" alt="Header" />
 </div>
 
 <h3 align="center">
-  Hi, I'm Omar Almeida
-  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28">
+Hi there, I'm Omar Almeida 👋
+<img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28">
 </h3>
 
 <p align="center">
-  <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com/?lines=Software%20Developer;Always%20learning%20new%20things&center=true&width=440&height=45"></a>
+<a href="https://git.io/typing-svg">
+<img src="https://www.google.com/search?q=https://readme-typing-svg.herokuapp.com/%3Flines%3DFull%2BStack%2B%2526%2BMobile%2BDev%3BBuilding%2BScalable%2BSolutions%3BFlutter%2B%257C%2BNode.js%2B%257C%2BAzure%26center%3Dtrue%26width%3D480%26height%3D50" alt="Typing SVG" />
+</a>
 </p>
 
----
+<p align="center">
+<em>Desarrollador de Software enfocado en crear soluciones eficientes y herramientas de productividad. 
 
-- 👨‍💻 Desarrollador de software apasionado por la tecnología y la mejora continua. Siempre estoy explorando nuevas herramientas y frameworks para crear soluciones más eficientes e innovadoras.
-- 💬 ¿Tienes curiosidad sobre el desarrollo de aplicaciones multiplataforma? Estoy encantado de compartir mi experiencia y aprendizajes.
 
-## 🛠 &nbsp;Tech Stack
 
-#### 🔧 Languages
-
-![Dart](https://img.shields.io/badge/Dart-%230175C2.svg?style=for-the-badge&logo=dart&logoColor=white)
-![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
-![Python](https://img.shields.io/badge/Python-%2314354C.svg?style=for-the-badge&logo=python&logoColor=white)
-
-#### 🖥️ Frameworks
-
-![Flutter](https://img.shields.io/badge/flutter-%2302569B.svg?style=for-the-badge&logo=flutter&logoColor=white)
-![React](https://img.shields.io/badge/react-%23000000.svg?style=for-the-badge&logo=react&logoColor=white)
-
-#### 📚 Libraries
-
-![Numpy](https://img.shields.io/badge/NumPy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white)
-![Pandas](https://img.shields.io/badge/Pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white)
-
-#### 🔧 Tools
-
-![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
-![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
-![Firebase](https://img.shields.io/badge/Firebase-%23FFCA28.svg?style=for-the-badge&logo=firebase&logoColor=black)
-![Postman](https://img.shields.io/badge/Postman-%23FF6C37.svg?style=for-the-badge&logo=postman&logoColor=white)
-![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
-![Figma](https://img.shields.io/badge/Figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white)
-
-## 📊 Profile Statistics
-
- <div align=center>
-
-![](https://github-readme-stats.vercel.app/api?username=olalmeida&theme=algolia&show_icons=true&count_private=true&bg_color=1e2b3c&border_color=B2E0FF&icon_color=95ccff&border_radius=20&include_all_commits=true&rank_icon=percentile)
-<br>
-
-</div>
- 
- ### 💳 Github Profile Summary Card
- 
- <div align=center>
-  
-![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=olalmeida&theme=github_dark)
-  
- </div>
- 
- ### ⏱ Streak Stats
- 
- <div align=center>
-  
- [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=olalmeida&theme=dracula&background=1E2B3C&border=B2E0FF&stroke=000439&ring=95CCFF&fire=95CCFF&currStreakNum=95CCFF&sideNums=95CCFF&currStreakLabel=95CCFF&sideLabels=95CCFF&dates=FFFFFF)](https://git.io/streak-stats)
-
- </div>
- 
- ### 📈 Activity Graph
- 
- [![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=olalmeida&theme=react-dark)](https://github.com/ashutosh00710/github-readme-activity-graph)
-
-### 📊 Most Used Language
-
- <div align=center>
-  
-[![](https://github-readme-stats.vercel.app/api/top-langs?username=olalmeida&show_icons=true&locale=en&layout=compact&theme=radical)]()  
-  
- </div>
- 
- ### 🏆 Profile Trophies
-
-<div align=center>
- 
-[![trophy](https://github-profile-trophy.vercel.app/?username=olalmeida&theme=onedark&title=-Reviews&no-frame=true&margin-w=4&margin-h=4)](https://github.com/ryo-ma/github-profile-trophy)
-  
-</div>
-
----
-
-### 🔗 &nbsp;Contact Me
+ Especializado en el ecosistema móvil (Flutter) y arquitecturas Backend escalables.</em>
+</p>
 
 <div align="center">
-<a href="mailto:omar10almeida202@gmail.com"><img alt="Gmail" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+
+<!-- TECH STACK SECTION -->
+
+<h2>🛠️ Tech Stack & Herramientas</h2>
+
+<!-- Languages -->
+
+<h3 align="center">Lenguajes</h3>
+<p>
+<img src="https://www.google.com/search?q=https://img.shields.io/badge/JavaScript-F7DF1E%3Fstyle%3Dfor-the-badge%26logo%3Djavascript%26logoColor%3Dblack" />
+<img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" />
+<img src="https://www.google.com/search?q=https://img.shields.io/badge/Dart-0175C2%3Fstyle%3Dfor-the-badge%26logo%3Ddart%26logoColor%3Dwhite" />
+<img src="https://www.google.com/search?q=https://img.shields.io/badge/Python-3776AB%3Fstyle%3Dfor-the-badge%26logo%3Dpython%26logoColor%3Dwhite" />
+<img src="https://www.google.com/search?q=https://img.shields.io/badge/SQL-4479A1%3Fstyle%3Dfor-the-badge%26logo%3Dpostgresql%26logoColor%3Dwhite" />
+</p>
+
+<!-- Frameworks & Libraries -->
+
+<h3 align="center">Frontend & Móvil</h3>
+<p>
+<img src="https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white" />
+<img src="https://www.google.com/search?q=https://img.shields.io/badge/React-20232A%3Fstyle%3Dfor-the-badge%26logo%3Dreact%26logoColor%3D61DAFB" />
+<img src="https://www.google.com/search?q=https://img.shields.io/badge/HTML5-E34F26%3Fstyle%3Dfor-the-badge%26logo%3Dhtml5%26logoColor%3Dwhite" />
+<img src="https://www.google.com/search?q=https://img.shields.io/badge/CSS3-1572B6%3Fstyle%3Dfor-the-badge%26logo%3Dcss3%26logoColor%3Dwhite" />
+</p>
+
+<!-- Backend & Cloud -->
+
+<h3 align="center">Backend, Cloud & Herramientas</h3>
+<p>
+<img src="https://www.google.com/search?q=https://img.shields.io/badge/Node.js-339933%3Fstyle%3Dfor-the-badge%26logo%3Dnodedotjs%26logoColor%3Dwhite" />
+<img src="https://www.google.com/search?q=https://img.shields.io/badge/Azure-0078D4%3Fstyle%3Dfor-the-badge%26logo%3Dmicrosoftazure%26logoColor%3Dwhite" />
+<img src="https://www.google.com/search?q=https://img.shields.io/badge/Docker-2496ED%3Fstyle%3Dfor-the-badge%26logo%3Ddocker%26logoColor%3Dwhite" />
+<img src="https://www.google.com/search?q=https://img.shields.io/badge/Firebase-FFCA28%3Fstyle%3Dfor-the-badge%26logo%3Dfirebase%26logoColor%3Dblack" />
+<img src="https://www.google.com/search?q=https://img.shields.io/badge/Git-F05032%3Fstyle%3Dfor-the-badge%26logo%3Dgit%26logoColor%3Dwhite" />
+<img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" />
+<img src="https://www.google.com/search?q=https://img.shields.io/badge/Postman-FF6C37%3Fstyle%3Dfor-the-badge%26logo%3Dpostman%26logoColor%3Dwhite" />
+</p>
+
+<!-- Data Science (Optional based on your CV inputs) -->
+
+<h3 align="center">Data & Otros</h3>
+<p>
+<img src="https://www.google.com/search?q=https://img.shields.io/badge/Pandas-150458%3Fstyle%3Dfor-the-badge%26logo%3Dpandas%26logoColor%3Dwhite" />
+<img src="https://www.google.com/search?q=https://img.shields.io/badge/NumPy-013243%3Fstyle%3Dfor-the-badge%26logo%3Dnumpy%26logoColor%3Dwhite" />
+<img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white" />
+</p>
+
 </div>
 
+<!-- STATS SECTION -->
+
+<!-- ADVERTENCIA: Si tienes repos privados, estas gráficas se verán vacías. Considera ocultarlas hasta hacer público tu código. -->
+
+<h2 align="center">📊 GitHub Analytics</h2>
+
+<div align="center">
+<a href="https://www.google.com/search?q=https://github.com/olalmeida">
+<img height="180em" src="https://www.google.com/search?q=https://github-readme-stats.vercel.app/api%3Fusername%3Dolalmeida%26theme%3Dalgolia%26show_icons%3Dtrue%26count_private%3Dtrue%26bg_color%3D1e2b3c%26border_color%3DB2E0FF%26icon_color%3D95ccff%26border_radius%3D10%26include_all_commits%3Dtrue%26rank_icon%3Dpercentile" />
+<img height="180em" src="https://www.google.com/search?q=https://github-readme-stats.vercel.app/api/top-langs%3Fusername%3Dolalmeida%26show_icons%3Dtrue%26locale%3Den%26layout%3Dcompact%26theme%3Dradical%26bg_color%3D1e2b3c%26border_color%3DB2E0FF%26border_radius%3D10" />
+</a>
+</div>
+
+<div align="center">
+<img src="https://www.google.com/search?q=http://github-readme-streak-stats.herokuapp.com%3Fuser%3Dolalmeida%26theme%3Ddracula%26background%3D1E2B3C%26border%3DB2E0FF%26stroke%3D000439%26ring%3D95CCFF%26fire%3D95CCFF%26currStreakNum%3D95CCFF%26sideNums%3D95CCFF%26currStreakLabel%3D95CCFF%26sideLabels%3D95CCFF%26dates%3DFFFFFF%26borderRadius%3D10" alt="GitHub Streak" />
+</div>
+
+<!-- TROPHIES SECTION -->
+
+<div align="center">
+<a href="https://github.com/ryo-ma/github-profile-trophy">
+<img src="https://github-profile-trophy.vercel.app/?username=olalmeida&theme=onedark&title=-Reviews&no-frame=true&margin-w=4&margin-h=4" alt="Trophies" />
+</a>
+</div>
+
+<!-- CONTACT SECTION -->
+
+<div align="center">
+<h3>📫 Connect with me</h3>
+<a href="mailto:omar10almeida202@gmail.com">
+<img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" />
+</a>
+<a href="https://www.linkedin.com/in/omar-almeida-navas-7aa976344/">
+<img src="https://www.google.com/search?q=https://img.shields.io/badge/LinkedIn-0077B5%3Fstyle%3Dfor-the-badge%26logo%3Dlinkedin%26logoColor%3Dwhite" alt="LinkedIn" />
+</a>
+</div>
+
+<div align="center">
+<img width="100%" src="https://www.google.com/search?q=https://capsule-render.vercel.app/api%3Ftype%3Dwaving%26height%3D60%26color%3Dgradient%26reversal%3Dtrue%26section%3Dfooter" alt="Footer" />
+</div>
