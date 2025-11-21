@@ -61,7 +61,7 @@ Hi there, I'm Omar Almeida 👋
 <img src="https://www.google.com/search?q=https://img.shields.io/badge/Postman-FF6C37%3Fstyle%3Dfor-the-badge%26logo%3Dpostman%26logoColor%3Dwhite" />
 </p>
 
-<!-- Data Science (Optional based on your CV inputs) -->
+<!-- Data Science & Design -->
 
 <h3 align="center">Data & Otros</h3>
 <p>
@@ -74,8 +74,6 @@ Hi there, I'm Omar Almeida 👋
 
 <!-- STATS SECTION -->
 
-<!-- ADVERTENCIA: Si tienes repos privados, estas gráficas se verán vacías. Considera ocultarlas hasta hacer público tu código. -->
-
 <h2 align="center">📊 GitHub Analytics</h2>
 
 <div align="center">
@@ -86,7 +84,7 @@ Hi there, I'm Omar Almeida 👋
 </div>
 
 <div align="center">
-<img src="https://www.google.com/search?q=http://github-readme-streak-stats.herokuapp.com%3Fuser%3Dolalmeida%26theme%3Ddracula%26background%3D1E2B3C%26border%3DB2E0FF%26stroke%3D000439%26ring%3D95CCFF%26fire%3D95CCFF%26currStreakNum%3D95CCFF%26sideNums%3D95CCFF%26currStreakLabel%3D95CCFF%26sideLabels%3D95CCFF%26dates%3DFFFFFF%26borderRadius%3D10" alt="GitHub Streak" />
+<img src="https://www.google.com/search?q=https://github-readme-streak-stats.herokuapp.com/%3Fuser%3Dolalmeida%26theme%3Ddracula%26background%3D1E2B3C%26border%3DB2E0FF%26stroke%3D000439%26ring%3D95CCFF%26fire%3D95CCFF%26currStreakNum%3D95CCFF%26sideNums%3D95CCFF%26currStreakLabel%3D95CCFF%26sideLabels%3D95CCFF%26dates%3DFFFFFF%26borderRadius%3D10" alt="GitHub Streak" />
 </div>
 
 <!-- TROPHIES SECTION -->
