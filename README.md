@@ -50,12 +50,12 @@ Sistema competitivo multijugador en tiempo real inspirado en mecánicas de físi
 * **Logro Clave:** Implementación de "Tick Loop" personalizado para sincronización determinista servidor-cliente.
 * 🔒 *Source Code: Privado (Propiedad Intelectual). Demo visual disponible próximamente.*
 
-#### 🛠 [DevTools Inspector] (#)
-> *Estado: Beta | Extensión de Chrome*
+#### 🛠 [DevTools Inspector (CSS-Lens)](https://github.com/olalmeida/css-lens) 
+> *Estado: Beta Pública | Extensión de Chrome*
 Herramienta de productividad que supera al inspector nativo para visualización de layouts complejos.
 * **Stack:** JavaScript (ES6+), Chrome Extensions API.
-* **Funcionalidad:** Algoritmo propio para detección y descarga masiva de assets tipográficos y de imagen.
-* 🔒 *Source Code: Privado (Beta cerrada).*
+* **Funcionalidad Destacada:** Algoritmo propio para detección y descarga masiva de assets tipográficos y de imagen.
+* 🔗 **Ver Código Fuente** (o parte de él) / **Probar Demo** en el repositorio.
 
 ---
 
