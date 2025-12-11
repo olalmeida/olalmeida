@@ -47,7 +47,7 @@
 > *Estado: En Producción | Arquitectura Cloud-Native, Principios Multitenant*
 Sistema centralizado para un equipo de Esports, diseñado para transformar la opacidad financiera en precisión estratégica.
 * **Stack:** Next.js (App Router), TypeScript, Supabase (PostgreSQL RLS), Tailwind CSS.
-* **Logros Clave (ROI Demostrado):**
+* **Logros Clave:**
     * **20% de Mejora en Precisión Presupuestaria** mediante control de gastos proactivo.
     * **99% de Reducción de Riesgo Operativo** al automatizar la conciliación de divisas (USD/MXN).
     * Implementación de **Row Level Security (RLS)** y roles estrictos para garantizar la auditoría y la integridad de los datos financieros.
@@ -60,17 +60,3 @@ Herramienta de productividad que supera al inspector nativo para visualización 
 * **Funcionalidad Destacada:** Algoritmo propio para detección y descarga masiva de assets tipográficos y de imagen.
 * 🔗 **Ver Código Fuente**
 
----
-
-### 📊 GitHub Analytics
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=olalmeida&show_icons=true&theme=algolia&rank_icon=percentile&hide_border=true&bg_color=0d1117" height="180" alt="stats graph" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=olalmeida&layout=compact&theme=algolia&hide_border=true&bg_color=0d1117&langs_count=6" height="180" alt="languages graph" />
-</div>
-
-<br>
-
-<div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=olalmeida&theme=algolia&hide_border=true&date_format=M%20j%5B%2C%20Y%5D&background=0d1117" alt="streak graph" />
-</div>
