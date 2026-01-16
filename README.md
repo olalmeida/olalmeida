@@ -20,8 +20,8 @@
 </p>
 
 <p align="center">
-  <a href="mailto:omar10almeida202@gmail.com">
-    <img src="https://img.shields.io/badge/Contact_Me-omar10almeida202%40gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+  <a href="mailto:omaralmeida.dev@outlook.com">
+    <img src="https://img.shields.io/badge/Contact_Me-omaralmeida.dev%40outlook.com-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white" />
   </a>
   <a href="https://www.linkedin.com/in/omar-almeida-navas-7aa976344/">
     <img src="https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
