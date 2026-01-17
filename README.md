@@ -48,7 +48,7 @@
 > *Arquitectura Cloud-Native | Fintech & Logistics*
 Digitalización de procesos operativos críticos, migrando flujos manuales a una infraestructura escalable en la nube con alta seguridad de datos.
 * **Impacto:** Automatización de conciliación multdivisa y control presupuestario proactivo.
-* **Tech:** Next.js, Supabase, Row Level Security (RLS) para integridad financiera.
+* **Tech:** React, Supabase, Row Level Security (RLS) para integridad financiera.
 
 #### 🛠 [DevTools Inspector](https://github.com/olalmeida/css-lens) 
 > *Developer Productivity Tool | Chrome Extension*
