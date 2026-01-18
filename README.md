@@ -41,16 +41,3 @@
 </div>
 
 ---
-
-### 🚀 Featured Systems
-
-#### 📈 [SGI: Gestión Financiera y Logística](https://github.com/olalmeida/SGI-Abismus)
-> *Arquitectura Cloud-Native | Fintech & Logistics*
-Digitalización de procesos operativos críticos, migrando flujos manuales a una infraestructura escalable en la nube con alta seguridad de datos.
-* **Impacto:** Automatización de conciliación multdivisa y control presupuestario proactivo.
-* **Tech:** React, Supabase, Row Level Security (RLS) para integridad financiera.
-
-#### 🛠 [DevTools Inspector](https://github.com/olalmeida/css-lens) 
-> *Developer Productivity Tool | Chrome Extension*
-Optimizador de flujo de trabajo para diseño técnico mediante algoritmos de detección masiva de assets y metadatos de interfaz.
-* **Tech:** JavaScript ES6+, Chrome APIs.
