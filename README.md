@@ -20,6 +20,9 @@
 </p>
 
 <p align="center">
+  <a href="https://olalmeida-dev.dreamhosters.com/" target="_blank">
+    <img src="https://img.shields.io/badge/Portfolio-Check%20it%20out-FF4B4B?style=for-the-badge&logo=react&logoColor=white" />
+  </a>
   <a href="mailto:omaralmeida.dev@outlook.com">
     <img src="https://img.shields.io/badge/Contact_Me-omaralmeida.dev%40outlook.com-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white" />
   </a>
