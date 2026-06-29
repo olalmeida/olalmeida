@@ -2,7 +2,7 @@
 
 # Hi, I'm Omar Almeida 👋
 
-### Software Engineer | Backend Systems, Cloud Infrastructure & SaaS Development
+### Software Engineer | Backend Systems & Cloud Infrastructure 
 
 Building reliable systems, scalable applications and digital products.
 
