@@ -52,22 +52,6 @@ React • Next.js • Flutter
 
 ---
 
-## Featured Projects
-
-### SaaS Platform
-
-Multi-tenant SaaS application focused on business management and automation.
-
-### DevTools Inspector
-
-Developer-focused tools for debugging and workflow optimization.
-
-### AI Automation Experiments
-
-Projects and integrations involving AI workflows, automation and developer productivity.
-
----
-
 ## Professional Experience
 
 ### Ondú Cloud
