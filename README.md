@@ -1,80 +1,78 @@
 <div align="center">
 
-# Hi, I'm Omar Almeida 👋
+# Omar Almeida
 
-### Software Engineer | Backend Systems & Cloud Infrastructure 
+### Software Engineer · Backend Systems · Cloud Infrastructure
 
-Building reliable systems, scalable applications and digital products.
+I build maintainable backend systems, developer tools and digital products focused on reliability, performance and real business outcomes.
 
-[Portfolio](https://olalmeida-dev.dreamhosters.com/) • [LinkedIn](https://www.linkedin.com/in/omar-almeida-navas-7aa976344/) • [Email](mailto:omaralmeida.dev@outlook.com)
+[Portfolio](https://olalmeida-dev.dreamhosters.com/) · [LinkedIn](https://www.linkedin.com/in/omar-almeida-navas-7aa976344/) · [Email](mailto:omaralmeida.dev@outlook.com)
 
 </div>
 
 ---
 
-## About Me
+## About me
 
-Software Engineer from Ecuador with experience supporting high-traffic digital platforms and building modern web applications.
+Software Engineer from Ecuador focused on backend development, API design, cloud infrastructure and automation.
 
-Currently working on digital media platforms while developing SaaS products and exploring cloud infrastructure, automation and AI-powered workflows.
+I currently support high-traffic digital platforms while building SaaS products and developer tools. My work combines TypeScript, Node.js, PostgreSQL, Docker and Linux with a strong focus on secure, observable and maintainable systems.
 
-My focus is on building systems that are maintainable, scalable and designed to solve real business problems.
+I also have experience with frontend applications using React, Next.js and Flutter when the product requires end-to-end ownership.
 
----
+## Selected work
 
-## Current Focus
+### [SEO Ghost](https://github.com/olalmeida/seo-ghost)
 
-* Building a SaaS platform
-* Backend development with TypeScript and Node.js
-* Cloud infrastructure and containerized environments
-* AI workflows and automation
-* PostgreSQL and modern application architectures
+A Playwright-based SEO, image and accessibility auditing tool for large-scale website analysis.
 
----
+- Extracts SEO metadata, headings, Open Graph data, structured data and image information.
+- Supports crawling, discovery, pagination, lazy loading and checkpoint-based resume.
+- Includes axe-core accessibility audits and JSON, HTML and Markdown reports.
+- Built with TypeScript, Playwright and modular collectors.
 
-## Tech Stack
+### [CSS Lens](https://github.com/olalmeida/css-lens)
 
-### Backend
+A browser extension for inspecting and editing CSS in real time.
 
-TypeScript • Node.js • Express • REST APIs
+- Interactive element inspection with box-model visualization.
+- Typography, colors, images and page-level statistics.
+- Live CSS and content editing with Manifest V3 architecture.
+- Focused on performance, input sanitization and minimal permissions.
 
-### Infrastructure
+### Production case study: SolucionesEC
 
-Docker • Linux • AWS • VPS Management
+A production digital product where I work with backend development, platform operations and business-oriented software delivery.
 
-### Databases
+The source code is private, but the experience informs how I design systems that need to be reliable, maintainable and useful in real operating environments.
 
-PostgreSQL • MySQL
+## Technical focus
 
-### Frontend
+**Backend:** TypeScript, Node.js, Express, REST APIs  
+**Frontend:** React, Next.js, Flutter  
+**Databases:** PostgreSQL, MySQL  
+**Infrastructure:** Docker, Linux, AWS, VPS management  
+**Engineering:** API design, automation, accessibility, performance and security
 
-React • Next.js • Flutter
+## Current learning
 
----
+- Distributed systems and cloud architecture
+- SaaS product engineering
+- AI-assisted workflows and MCP integrations
+- Observability, testing and production reliability
 
-## Professional Experience
+## Professional experience
 
-### Ondú Cloud
+- **Ondú Cloud — Webmaster Support Engineer**  
+  Technical support, CMS administration, platform maintenance and operations for high-traffic digital media platforms.
 
-**Webmaster Support Engineer**
-
-Supporting one of Ecuador's highest-traffic digital media platforms through content operations, technical support, CMS administration and platform maintenance.
-
-### Grupo Lucky Ecuador
-
-**Software Development Assistant**
-
-Worked on Azure CDN implementation, backend development, platform maintenance and large-scale data operations.
-
----
-
-## Currently Learning
-
-* Distributed Systems
-* Cloud Architecture
-* SaaS Product Engineering
-* AI Agents & MCP Integrations
+- **Grupo Lucky Ecuador — Software Development Assistant**  
+  Azure CDN implementation, backend maintenance, Flutter and Node.js support, MySQL operations and incident resolution.
 
 ---
 
-⭐ Always building, learning and improving.
+<div align="center">
+
+Building useful software, learning continuously and improving every iteration.
+
+</div>
