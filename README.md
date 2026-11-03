@@ -2,9 +2,9 @@
 
 # Omar Almeida
 
-### Software Engineer · Backend Systems · Cloud Infrastructure
+### Software Engineer · Backend Systems · Distributed Architectures
 
-I build maintainable backend systems, developer tools and digital products focused on reliability, performance and real business outcomes.
+I design and build reliable backend services, SaaS architectures, and developer tooling focused on performance, data integrity, and real business impact.
 
 [Portfolio](https://olalmeida-dev.dreamhosters.com/) · [LinkedIn](https://www.linkedin.com/in/omar-almeida-navas-7aa976344/) · [Email](mailto:omaralmeida.dev@outlook.com)
 
@@ -14,65 +14,56 @@ I build maintainable backend systems, developer tools and digital products focus
 
 ## About me
 
-Software Engineer from Ecuador focused on backend development, API design, cloud infrastructure and automation.
+Software Engineer based in Ecuador specializing in backend architecture, API engineering, and cloud workflows.
 
-I currently support high-traffic digital platforms while building SaaS products and developer tools. My work combines TypeScript, Node.js, PostgreSQL, Docker and Linux with a strong focus on secure, observable and maintainable systems.
+I build production-grade web systems and developer tools with a focus on strict data modeling, idempotency, and high availability. My primary toolkit includes **TypeScript, Node.js, Python, NestJS, Next.js, PostgreSQL, and Docker**.
 
-I also have experience with frontend applications using React, Next.js and Flutter when the product requires end-to-end ownership.
+I take full ownership across the lifecycle—from schema design and transaction isolation to edge caching, container orchestration, and automated auditing.
 
-## Selected work
+## Selected projects
+
+### [AeroStack — Multi-Tenant SaaS & Offline-First POS](https://github.com/olalmeida)
+*NestJS · TypeScript · React · Tauri · Prisma · Redis · MySQL*
+- Modular monolith architecture designed for multi-tenant commercial operations and POS workflows.
+- Implemented role-based access control (RBAC), distributed caching with Redis, and atomic transactions.
+- Engineered a cross-platform desktop POS client with Tauri featuring an **offline-first** sync mechanism for resilient sales operations during network downtime.
+
+### [Payphone Payment Provider for Odoo 18](https://apps.odoo.com/apps/modules/18.0/payment_payphone_ec)
+*Python · Odoo 18 · Node.js · Docker Compose · REST APIs*
+- Production-ready payment provider published on the official Odoo Apps Store, integrating the Payphone Ecuador gateway into Odoo's native `payment.provider` framework.
+- Enforced Zero-Trust server-to-server transaction validation, strict amount tamper checks, and idempotent webhook processing.
+- Built a decoupled local testing workflow with Docker Compose and a Node.js mock gateway server for comprehensive automated testing without live credentials.
 
 ### [SEO Ghost](https://github.com/olalmeida/seo-ghost)
-
-A Playwright-based SEO, image and accessibility auditing tool for large-scale website analysis.
-
-- Extracts SEO metadata, headings, Open Graph data, structured data and image information.
-- Supports crawling, discovery, pagination, lazy loading and checkpoint-based resume.
-- Includes axe-core accessibility audits and JSON, HTML and Markdown reports.
-- Built with TypeScript, Playwright and modular collectors.
+*TypeScript · Playwright · axe-core*
+- High-concurrency CLI tool built to automate deep technical SEO, structured JSON-LD data, and accessibility audits on large-scale web applications.
+- Features URL crawling, pagination support, lazy-loading evaluation, checkpoint resumes, and exportable reports in JSON, HTML, and Markdown.
 
 ### [CSS Lens](https://github.com/olalmeida/css-lens)
-
-A browser extension for inspecting and editing CSS in real time.
-
-- Interactive element inspection with box-model visualization.
-- Typography, colors, images and page-level statistics.
-- Live CSS and content editing with Manifest V3 architecture.
-- Focused on performance, input sanitization and minimal permissions.
-
-### Production case study: SolucionesEC
-
-A production digital product where I work with backend development, platform operations and business-oriented software delivery.
-
-The source code is private, but the experience informs how I design systems that need to be reliable, maintainable and useful in real operating environments.
+*JavaScript · Chrome Manifest V3 · Web APIs*
+- Real-time CSS and layout inspection browser extension with element telemetry, box-model visualization, and in-memory stylesheet manipulation.
+- Built strictly adhering to Manifest V3 security boundaries, minimal scopes, and low overhead.
 
 ## Technical focus
 
-**Backend:** TypeScript, Node.js, Express, REST APIs  
-**Frontend:** React, Next.js, Flutter  
-**Databases:** PostgreSQL, MySQL  
-**Infrastructure:** Docker, Linux, AWS, VPS management  
-**Engineering:** API design, automation, accessibility, performance and security
-
-## Current learning
-
-- Distributed systems and cloud architecture
-- SaaS product engineering
-- AI-assisted workflows and MCP integrations
-- Observability, testing and production reliability
+- **Backend & APIs:** Node.js, TypeScript, Python, NestJS, Express, RESTful APIs, Prisma ORM
+- **Databases & Caching:** PostgreSQL, MySQL, Redis, MongoDB
+- **Frontend & Desktop:** React, Next.js, Tailwind CSS, Tauri, Flutter
+- **DevOps & Cloud:** Docker, Linux, AWS, Cloudflare, Nginx, CI/CD pipelines
+- **Engineering Principles:** System design, idempotent workflows, automated testing, Core Web Vitals optimization
 
 ## Professional experience
 
-- **Ondú Cloud — Webmaster Support Engineer**  
-  Technical support, CMS administration, platform maintenance and operations for high-traffic digital media platforms.
+- **Ondú Cloud — Software Engineer / Web Developer** *(Feb 2026 – Present)*  
+  Engineered and optimized web platforms using Next.js and TypeScript. Improved Core Web Vitals (LCP, CLS), managed edge routing and caching via Cloudflare and AWS, and maintained high availability for high-traffic environments.
 
-- **Grupo Lucky Ecuador — Software Development Assistant**  
-  Azure CDN implementation, backend maintenance, Flutter and Node.js support, MySQL operations and incident resolution.
+- **Grupo Lucky Ecuador — Junior Software Developer** *(Jun 2025 – Aug 2025)*  
+  Developed internal enterprise modules using Node.js and Flutter. Configured Azure CDN distribution to decrease asset delivery latency and resolved production bugs across distributed relational databases.
 
 ---
 
 <div align="center">
 
-Building useful software, learning continuously and improving every iteration.
+Building maintainable software with clean architecture and clear boundaries.
 
 </div>
